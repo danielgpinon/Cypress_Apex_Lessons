@@ -1,2 +1,2 @@
-# Cypress_Apex_Lessons
+# Cypress Apex Lessons
 Created to store cypress exercises
